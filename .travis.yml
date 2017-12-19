@@ -13,4 +13,3 @@ before_script:
 script:
   - ./configure --with-crypto --with-curl
   - make
-  - ./cpuminer --cputest
